@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27913873ac22d5f499b5ca2812a1dee4, type: 3}
+  m_Name: Level_1_Settings
+  m_EditorClassIdentifier: 
+  levelBlocks:
+  - blockPrefab: {fileID: 8381394228734754547, guid: 4605a027c4c792f418edbeeed9848300, type: 3}
+    priority: 5
+  - blockPrefab: {fileID: 7653807564784568838, guid: c3a974cb89371574794ba97dbdcc373b, type: 3}
+    priority: 5
+  numberOfHorizontalBlocks: 7
+  numberOfVerticalBlocks: 9
